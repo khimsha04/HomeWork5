@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header{
+	background-color: blue;
+	height: 387.56px;
+
+}
+header img{
+	width:115px;
+	margin-right: 300px;
+	margin-top: 40px;
+	margin-bottom: -25px;
+	margin-left: 40px;
+}
+nav{
+	display: inline-block;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+header ul{
+	list-style: none;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 600px;
+}
+li{
+	display: inline-block;
+	margin-right: 40px;
+}
+.contact{
+	background-color: white;
+	color: black;
+	height: 55px;
+	width: 160px;
+	margin-top: -30px ;
+	/* margin-right: 50px; */
+	border-radius: 28px;
+}
+
+
+ .first-photo{
+	width: 1195px;
+	margin-left: 80px;
+	border-radius: 15px;
+	margin-top: -140px;
+}
+h1{
+size: 28px;
+}
+.second-images{
+	height:219px;
+	margin-right: -60px;
+	margin-left: 80px;
+}
+
+.other-info{
+	color: white;
+	background-color: blue;
+	width: 341px;
+	margin-left: 550px;
+}
+footer{
+	background-color: blue;
+	height: 1080px;
+	color: white;
+	margin-top: 180px;
+	
+	vertical-align: bottom;
+}
+.mapouter{
+	width: 400px;
+}
+.class-h1{
+	margin-left: 80px;
+	margin-top: 40px;
+    margin-bottom: 60px;
+}
+.first-P{
+	font-size: 16px;
+	color: black;
+	height: 177px;
+	width: 950px;
+	margin-left: 180px;
+	margin-bottom: -30px;
+	font-family: 'ALK Rex Bold';
+}
+.second-P{
+	font-size: 16px;
+	color: black;
+	height: 281px;
+	width: 951px;
+	margin-left: 180px;
+	margin-bottom: -30px;
+	font-family: 'ALK Rex Bold';
+
+}
+.third-P{
+	font-size: 16px;
+	color: black;
+	height: 151px;
+	width: 951px;
+	margin-left: 180px;
+	margin-top: -80px;
+	margin-bottom: 80px;
+	font-family: 'ALK Rex Bold';
+}
+h4{
+	
+	font-size: 32px;
+    margin-left: 160px;
+    margin-bottom: 60px;
+    padding-top: 120px;
+}
+.footer-P{
+
+	height: 130px;
+    width: 400px;
+	margin-left: 160px;
+	font-family: 'ALK Rex Bold';
+
+} 
+.mapouter-Map{
+
+	margin-left: 160px;
+	margin-bottom: 100px;
+}
+.footer-P2{
+
+	margin-left: 1000px;
+}
+.footer-Span{
+	margin-left: 160px;
+	margin: right 896px;
+}
+.footer-Div{
+	margin-top: 300px;
+}
+.Phone-Icon{
+	margin-left: 160px;
+	background-color: white;
+	border-radius: 50px;
+}
+.Mail-Icon{
+	background-color: white;
+	border-radius: 50px;
+}
